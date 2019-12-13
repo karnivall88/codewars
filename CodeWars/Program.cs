@@ -8,8 +8,9 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MonkeyCounter.MonkeyCount(5));
-            Console.WriteLine(_7kyu.Kata.rowSumOddNumbers(5));
+            //Console.WriteLine(MonkeyCounter.MonkeyCount(5));
+            //Console.WriteLine(_7kyu.Kata.rowSumOddNumbers(5));
+            Console.WriteLine(_7kyu.Kata.WordsToMarks("abcd"));
         }
     }
 }
